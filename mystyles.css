@@ -1,0 +1,19 @@
+h1{
+    color: green;
+    background-color: hotpink;
+}
+
+h1.page-title{
+    color: yellow;
+    font-size: 100px;
+}
+
+.bordered{
+    border-style: solid;
+    border-width: 10px;
+    border-color: mediumaquamarine;
+}
+
+h1.font{
+    font-family:'Courier New', Courier, monospace;
+}
